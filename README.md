@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @TheRealZFinch
-- 👀 I’m interested in Python, Java, C#
-- 🌱 I’m currently learning Python
-- 📫 You can reach me on Discord: ZebraFinch#1806
+Open source is life
+Open source is love
 
 <!---
 TheRealZFinch/TheRealZFinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
